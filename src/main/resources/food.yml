@@ -1,0 +1,61 @@
+food:
+  test:
+    material: sdfsga
+    xp: 6
+    healthy: true
+  rabbit_stew:
+    material: RABBIT_STEW
+    xp: 10
+    healthy: true
+  cooked_beef:
+    material: COOKED_BEEF
+    xp: 8
+    healthy: true
+  cooked_chicken:
+    material: COOKED_CHICKEN
+    xp: 6
+    healthy: true
+  beetroot_soup:
+    material: BEETROOT_SOUP
+    xp: 6
+    healthy: true
+  baked_potato:
+    material: BAKED_POTATO
+    xp: 5
+    healthy: true
+  melon_slice:
+    material: MELON
+    xp: 2
+    healthy: true
+  beetroot:
+    material: BEETROOT
+    xp: 1
+    healthy: true
+  cooked_porkchop:
+    material: GRILLED_PORK
+    xp: 8
+    healthy: false
+  cooked_mutton:
+    material: COOKED_MUTTON
+    xp: 6
+    healthy: false
+  mushroom_stew:
+    material: MUSHROOM_SOUP
+    xp: 6
+    healthy: false
+  bread:
+    material: BREAD
+    xp: 5
+    healthy: false
+  apple:
+    material: APPLE
+    xp: 4
+    healthy: false
+  cookie:
+    material: COOKIE
+    xp: 2
+    healthy: false
+  raw_potato:
+    material: POTATO_ITEM
+    xp: 1
+    healthy: false

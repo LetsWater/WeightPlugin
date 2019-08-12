@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WeightPlugin">
+    <output-path>$PROJECT_DIR$/out/artifacts/WeightPlugin</output-path>
+    <root id="archive" name="WeightPlugin.jar">
+      <element id="module-output" name="WeightPlugin" />
+    </root>
+  </artifact>
+</component>

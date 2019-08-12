@@ -1,0 +1,11 @@
+name: WeightPlugin
+version: 1.0-SNAPSHOT
+main: me.flame.weight.Core
+api-version: 1.13
+prefix: Weight
+authors: [LetsFlame_]
+description: Make your server more realistic!
+
+commands:
+  weight:
+    description: [Main command]

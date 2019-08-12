@@ -1,0 +1,15 @@
+# Configuration file for the Weight Plugin.
+# Every section get a tutorial how to use it.
+# If you found any bugs, report it on discord! iException#2305
+sql:
+  # MySQL is a supported database driver.
+  # Using yml will use a .yml file as storage place!
+  # If the connection to the MySQL server is invalid. Yml will be used!
+  driver: yml
+
+  ## MySQL Settings ##
+  # Database settings:
+  address: 127.0.0.1:3306
+  database: 'weight'
+  username: 'iexception'
+  password: 'password'
